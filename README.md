@@ -35,9 +35,11 @@ gestión de transacciones y servicios.
 Reflexión:
 El tablero de control emerge como una herramienta esencial para los recepcionistas, brindándoles insights valiosos para una gestión más efectiva y una atención 
 al cliente de calidad en la postventa automotriz.
+
 Resumen:
 En resumen, el Tablero de Control de Facturación Cargo Cliente es un recurso indispensable para la gestión de recepcionistas. Facilita un análisis detallado, identificando 
 áreas de mejora y resaltando éxitos para una gestión más efectiva.
+
 Conclusión:
 El tablero demuestra ser una herramienta poderosa para optimizar las operaciones y maximizar la satisfacción del cliente en la recepción de una concesionaria de 
 postventa automotriz, destacando 
